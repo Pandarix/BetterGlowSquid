@@ -1,25 +1,25 @@
 {
   "variants": {
     "facing=up": {
-      "model": "betterglowsquid:glow_ink_ceilling"
-    },
-    "facing=down": {
       "model": "betterglowsquid:glow_ink_ground"
     },
+    "facing=down": {
+      "model": "betterglowsquid:glow_ink_ceilling"
+    },
     "facing=north": {
-      "model": "betterglowsquid:glow_ink_side"
-    },
-    "facing=south": {
-      "model": "betterglowsquid:glow_ink_side",
-      "y": 90
-    },
-    "facing=east": {
       "model": "betterglowsquid:glow_ink_side",
       "y": 180
     },
-    "facing=west": {
+    "facing=south": {
+      "model": "betterglowsquid:glow_ink_side"
+    },
+    "facing=east": {
       "model": "betterglowsquid:glow_ink_side",
       "y": 270
+    },
+    "facing=west": {
+      "model": "betterglowsquid:glow_ink_side",
+      "y": 90
     }
   }
 }
